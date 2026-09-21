@@ -9,3 +9,8 @@
 ```bash
 pwd
 ```
+
+```java
+String hola = "HOLA";
+System.out.println(hola);
+```
